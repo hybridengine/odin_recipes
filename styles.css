@@ -1,0 +1,11 @@
+/** odin recipes stylesheet **/
+
+h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: bisque;
+    text-align: center;
+}
+
+a {
+    font-family: 'Tahoma', sans-serif;
+}
